@@ -1,0 +1,5 @@
+#XCode
+.idea
+Pods
+Podfile.lock
+.DS_Store
